@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author Shubham
- *
- */
-module practice {
-}
